@@ -1,1 +1,3 @@
 /node_modules
+#secret stuff
+.env
